@@ -1,4 +1,4 @@
-# 单JS的
+# 单JS的  和node argo 单js一样，默认V0
 FROM supertc/nodealp:latest
 
 ENV SUB_NAME=Render-XW \
