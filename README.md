@@ -9,5 +9,4 @@
 #        NEZHA_KEY=smjBle1WCuhmGSaOnP 
 #        SUB_NAME=Render-XW 
 #        NEZHA_VERSION=V0 
-#        CF_IP=ip.sb 
 #        ARGO_PORT=8001
