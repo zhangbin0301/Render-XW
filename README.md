@@ -1,5 +1,7 @@
 # Render-XW
 
+supertc/nodealp:latest
+
 # 和node argo 单js一样，默认V0
 
 #        CF_IP=ip.sb  默认ip.sb
