@@ -1,6 +1,6 @@
 # Render-XW
 
-supertc/nodealp:latest
+supertc/nodealp:latest    or    ghcr.io/zgtcgd/nodealp:latest
 
 # 和node argo 单js一样，默认V0
 
