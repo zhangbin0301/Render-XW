@@ -12,3 +12,4 @@ supertc/nodealp:latest    or    ghcr.io/zgtcgd/nodealp:latest
 #        SUB_NAME=Render-XW 
 #        NEZHA_VERSION=V0  默认v0 
 #        V_PORT=8001
+#        VLPATH=startvl   这个一定要设置
